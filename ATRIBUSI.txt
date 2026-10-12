@@ -1,0 +1,19 @@
+ATRIBUSI SUMBER DATA — WAJIB DISERTAKAN SAAT REDISTRIBUSI
+============================================================
+
+1. World Bank Open Data
+   Nama resmi : World Bank Open Data
+   Lisensi    : Creative Commons Attribution 4.0 International (CC BY 4.0)
+   Ketentuan  : penggunaan komersial diizinkan DENGAN atribusi.
+   Atribusi   : Data dari World Bank Open Data (CC BY 4.0) — https://data.worldbank.org
+   Digunakan  : seluruh seri dengan awalan series_id "wb:"
+
+2. ECB reference rates (lewat Frankfurter API)
+   Nama resmi : European Central Bank — Euro foreign exchange reference rates
+   Lisensi    : boleh digunakan ulang dengan atribusi (pernyataan ECB)
+   Atribusi   : Kurs referensi Bank Sentral Eropa (ECB), via frankfurter.app
+   Digunakan  : seluruh seri dengan awalan series_id "fx:"
+
+3. Dataset turunan ini
+   Penggabungan, normalisasi, dan pemeliharaan: anYoneo
+   Repositori : https://github.com/anYoneo
