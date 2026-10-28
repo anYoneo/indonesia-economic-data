@@ -1,5 +1,4 @@
 series_id,nama,satuan,periode,nilai,sumber,lisensi
-fx:USDIDR,Kurs USD/IDR,IDR per 1 USD,2021-10-27,14211.0,fx,ECB euro foreign exchange reference rates (boleh dipakai ulang dengan atribusi)
 fx:USDIDR,Kurs USD/IDR,IDR per 1 USD,2021-10-28,14206.0,fx,ECB euro foreign exchange reference rates (boleh dipakai ulang dengan atribusi)
 fx:USDIDR,Kurs USD/IDR,IDR per 1 USD,2021-10-29,14217.0,fx,ECB euro foreign exchange reference rates (boleh dipakai ulang dengan atribusi)
 fx:USDIDR,Kurs USD/IDR,IDR per 1 USD,2021-11-01,14280.0,fx,ECB euro foreign exchange reference rates (boleh dipakai ulang dengan atribusi)
@@ -1280,3 +1279,4 @@ fx:USDIDR,Kurs USD/IDR,IDR per 1 USD,2026-10-22,18076.0,fx,ECB euro foreign exch
 fx:USDIDR,Kurs USD/IDR,IDR per 1 USD,2026-10-23,18108.0,fx,ECB euro foreign exchange reference rates (boleh dipakai ulang dengan atribusi)
 fx:USDIDR,Kurs USD/IDR,IDR per 1 USD,2026-10-26,18162.0,fx,ECB euro foreign exchange reference rates (boleh dipakai ulang dengan atribusi)
 fx:USDIDR,Kurs USD/IDR,IDR per 1 USD,2026-10-27,18139.0,fx,ECB euro foreign exchange reference rates (boleh dipakai ulang dengan atribusi)
+fx:USDIDR,Kurs USD/IDR,IDR per 1 USD,2026-10-28,18177.0,fx,ECB euro foreign exchange reference rates (boleh dipakai ulang dengan atribusi)
